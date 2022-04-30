@@ -1,0 +1,4 @@
+Genome	Start	End
+tig00000000_pilon	0	6927134
+tig00000001_pilon	0	5696943
+tig00000002_pilon	0	5089175
